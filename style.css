@@ -1,0 +1,38 @@
+body
+{
+ background-color: #E2E8DD;
+ font-family: 'Akaya Telivigala', cursive;
+}
+
+.header_div
+{
+    background:#95A3A4;
+    color: white;
+}
+
+.header_div p
+{
+font-size: 12px;
+font-weight: bold;
+letter-spacing: 2px;
+}
+
+button
+{
+    margin-top: 30px;
+    width: 100px;
+    letter-spacing: 2px;
+    font-family: 'Pacifico', cursive;
+}
+.footer
+{
+  color: #6c757d;
+  font-size: 20px;
+  width: 100%;
+  position: fixed;
+  bottom: 10px;
+  background-color: white;
+  line-height: 3;
+  text-shadow: 5px 5px 5px rgb(151,149,149);
+}
+
